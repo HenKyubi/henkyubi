@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm John Niño! 👋
 
-<!--
-**HenKyubi/henkyubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer passionate about technology and software development. I love creating innovative solutions and tackling complex challenges using various technologies.
 
-Here are some ideas to get you started:
+## About Me
+- 👨‍💻Currently working as an independent software engineer where I specialize in development from scratch, and supporting the software cycle.
+- 🎓 Graduated from Systems Engineer/Unisangil.
+- 💼 I have experience in developing web applications, mobile applications, Blockchain and DevOps.
+- 🌱 I'm always learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Use
+- 💻 Programming Languages:  JavaScript | TypeScript | Flutter | Java | Python | Solidity.
+- 🚀 Frameworks and Tools: Express | Nest | React | Next | Angular | Sass | Bootstrap  | Docker | Postman | MySQL | MongoDB | PostgreSQL | DBeaver | Tailwind | Cloud computing | Figma | AdobeXD | Notion | Git | Github | Slack | Teams.
+
+## Contact
+- 📧 You can reach me via email at: jhonnino@unisangil.edu.co.
+- 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/ing-john-nino).
+
+Thank you for visiting my profile! I hope you find my projects and contributions interesting. Feel free to reach out if you'd like to collaborate on a project or just chat about technology.
+
+Happy coding! 🚀
